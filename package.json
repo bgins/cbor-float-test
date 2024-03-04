@@ -1,0 +1,15 @@
+{
+  "name": "rust-cbor-test",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cbor-x": "^1.5.8",
+    "iso-base": "^2.0.1"
+  }
+}
